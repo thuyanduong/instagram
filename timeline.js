@@ -1,0 +1,3 @@
+function viewTime(){
+  return "timeline"
+}
